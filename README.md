@@ -61,12 +61,8 @@ Llevamos nuestro mensaje a la acción con propuestas concretas para la **emancip
 
 ---
 
-## 🤝 Contacto y Colaboración
-
-📧 [contacto@zielosobremadriz.org](mailto:contacto@zielosobremadriz.org) *(correo provisional)*
-🌐 [https://zielosobremadriz.org](https://zielosobremadriz.org) *(sitio en desarrollo)*
-
----
 
 > “Construimos comunidad a través de la energía.
 > Porque un tejado no es solo un techo: es una oportunidad de cambio.”
+
+---
